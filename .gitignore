@@ -1,0 +1,16 @@
+# Dependencias de node
+node_modules/
+
+# Archivos de configuración de editor
+.vscode/
+.idea/
+
+# Archivos de log
+*.log
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
